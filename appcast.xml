@@ -31,15 +31,6 @@
         length="399189591"
         type="application/octet-stream"/>
     </item>
-    <item>
-      <title>Murmur 0.1.0</title>
-      <pubDate>Mon, 01 Jun 2026 16:22:30 +0000</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>First public release. Local push-to-talk dictation for macOS — hold a key, speak, release; transcription runs on-device.</li></ul>]]></description>
-      <enclosure url="https://github.com/pphelan007/murmur-updates/releases/download/v0.1.0/Murmur.dmg" sparkle:edSignature="8fPnuKWI7hidt0ujUJMkfvLDxi5OzRnWY+uK8wwR1LKKnYzjrF++ySpz6BxSeZTXxMuCLGUOGS2FjmdaM7aMAg==" length="357998410" type="application/octet-stream"/>
-    </item>
     <!--
       Each release adds one <item> block to the TOP of this list.
       Sparkle picks the highest sparkle:version that satisfies
