@@ -6,6 +6,19 @@
     <description>Updates for Murmur — local push-to-talk voice dictation for macOS.</description>
     <language>en</language>
     <item>
+      <title>Murmur 0.1.6</title>
+      <pubDate>Wed, 03 Jun 2026 02:34:34 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Murmur 0.1.6. Local push-to-talk dictation for macOS.</li></ul>]]></description>
+      <enclosure
+        url="https://github.com/pphelan007/murmur-updates/releases/download/v0.1.6/Murmur.dmg"
+        sparkle:edSignature="htnJgEP7ZBvKHJE+CGmnLqyQ46EpL8PYvNw741vCp3k4yFLXaa140fShMoHUNsZrfzQeLF30ipca426KbbUtBg=="
+        length="249331257"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Murmur 0.1.5</title>
       <pubDate>Wed, 03 Jun 2026 01:53:29 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
@@ -16,19 +29,6 @@
         url="https://github.com/pphelan007/murmur-updates/releases/download/v0.1.5/Murmur.dmg"
         sparkle:edSignature="k2Eq+USjDKgK/DBYkeE5xotljxUu581KXRGdtD0xkvO/X7MTpdiijUCBu2KEpHrpSSAqComqY8X2PdzgeRssCQ=="
         length="249307500"
-        type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Murmur 0.1.4</title>
-      <pubDate>Tue, 02 Jun 2026 07:24:53 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Murmur 0.1.4. Local push-to-talk dictation for macOS.</li></ul>]]></description>
-      <enclosure
-        url="https://github.com/pphelan007/murmur-updates/releases/download/v0.1.4/Murmur.dmg"
-        sparkle:edSignature="LEJyBFS+rrFHHVmzk8Ux8gcgwr1NHnWqzdLdpr+HTuVpZ6nu10d/v6zacmNBaKyHgU3GceP64HBdzfXKBfpmCw=="
-        length="249299432"
         type="application/octet-stream"/>
     </item>
     <!--
